@@ -32,7 +32,7 @@
                         <th scope="col">Time</th>
                         <th scope="col">Systolic (mm/hg)</th>
                         <th scope="col">Diastolic (mm/hg)</th>
-                        <th scope="col"></th>
+                        <th scope="col">Status</th>
                     </tr>
                 </thead>
                 <tbody>
