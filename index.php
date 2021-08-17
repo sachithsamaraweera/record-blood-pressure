@@ -13,8 +13,11 @@
 </head>
 
 <body>
-
-    <?php include 'form.php';
+    <div class="container">
+        <?php include 'alerts.php'; ?>
+    </div>
+    <?php
+    include 'form.php';
     include 'read.php'; ?>
     <?php
 

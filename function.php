@@ -1,7 +1,5 @@
 <?php
 
-use JetBrains\PhpStorm\Internal\ReturnTypeContract;
-
 function calculate($sys, $dia)
 {
     if ($sys > 180 || $dia > 110) {
